@@ -10,9 +10,9 @@ List of all valid commands:<br>
 
 <br>
 # Screenshots: <br>
-![Screenshot (421)](https://user-images.githubusercontent.com/85894025/123079196-53daba80-d439-11eb-9a24-6930736a7b29.png)
-![Screenshot (425)](https://user-images.githubusercontent.com/85894025/123079335-78cf2d80-d439-11eb-83c2-3dbd5e99e441.png)
-![Screenshot (426)](https://user-images.githubusercontent.com/85894025/123079354-7f5da500-d439-11eb-8b9a-db34f7796335.png)
-![Screenshot (427)](https://user-images.githubusercontent.com/85894025/123079388-871d4980-d439-11eb-8ff3-b40e2878d68c.png)
-![Screenshot (428)](https://user-images.githubusercontent.com/85894025/123079413-8c7a9400-d439-11eb-9bdf-4981a5f95c0d.png)
-![Screenshot (429)](https://user-images.githubusercontent.com/85894025/123079428-913f4800-d439-11eb-904f-e8058c09a1e7.png)
+![Before Running Command](https://user-images.githubusercontent.com/85894025/123079196-53daba80-d439-11eb-9a24-6930736a7b29.png) <br>
+![fso help](https://user-images.githubusercontent.com/85894025/123079335-78cf2d80-d439-11eb-83c2-3dbd5e99e441.png) <br>
+![fso tree](https://user-images.githubusercontent.com/85894025/123079354-7f5da500-d439-11eb-8b9a-db34f7796335.png) <br>
+![fso organize](https://user-images.githubusercontent.com/85894025/123079388-871d4980-d439-11eb-8ff3-b40e2878d68c.png) <br>
+![fso tree](https://user-images.githubusercontent.com/85894025/123079413-8c7a9400-d439-11eb-9bdf-4981a5f95c0d.png) <br>
+![After Running Command](https://user-images.githubusercontent.com/85894025/123079428-913f4800-d439-11eb-904f-e8058c09a1e7.png)
